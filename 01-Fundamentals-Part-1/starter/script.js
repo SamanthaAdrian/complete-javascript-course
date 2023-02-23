@@ -364,7 +364,7 @@ else {
 ----------------------------------------------------
 
 /////////////////////////////////////////////////
-//Coding Challenge #2
+//Coding Challenge #3
 /*
 There are two gymnastics teams, Dolphins and Koalas. They compete against each other 3 times. The winner with the highest average score wins a trophy!
 
@@ -480,7 +480,7 @@ console.log(`I like to drink ${age >= 18 ? "wine" : "water"}`);
 ----------------------------------------------------
 */
 /////////////////////////////////////////////////
-//Coding Challenge #2
+//Coding Challenge #4
 /*
 Steven wants to build a very simple tip calculator for whenever he goes eating in a resturant. In his country, it's usual to tip 15% if the bill is between 50 and 300. If the value is different, the tip is 20%.
 
